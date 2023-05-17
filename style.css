@@ -34,8 +34,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 30px;
-    height: 20vh;
+    padding: 50px;
     border: 1px solid black;
 }
 @media(max-width:789px){
