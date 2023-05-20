@@ -95,7 +95,7 @@
 @media (min-width: 791px) and (max-width: 1024px){
     .container2{
         padding: 40px;
-        height: 60vh;
+        height: auto;
     }
     .container2 .image1{
         width:100%;
