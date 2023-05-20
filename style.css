@@ -90,9 +90,7 @@
     padding: 30px 0px;
     text-align: justify;
 }
-.container2 .content1 p{
 
-}
 }
 @media (min-width: 791px) and (max-width: 1024px){
     .container2{
@@ -107,7 +105,7 @@
     .container2 img{
         max-width: 100%;
         min-height: 90%;
-        object-fit: cover;
+        object-fit: cont;
     }
     .container2 .content1{
         width: 100%;
