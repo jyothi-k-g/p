@@ -135,28 +135,4 @@
     margin: 10ps 0px;
 }
 }
-@media (min-width: 791px) and (max-width: 1024px){
-    .container2{
-        padding: 10px;
-        height: auto;
-    }
-    .container2 .image1{
-        width:100%;
-        padding: 20px;
-        margin: 0;
-    }
-    .container2 img{
-        max-width: 100%;
-        max-height: 90%;
-        object-fit: contain;
-    }
-    .container2 .content1{
-        width: 100%;
-        margin: 20px;
-        padding: 40px 10px;
-        text-align: justify;
-    }
-    .container2 .content1 p{
-        
-    }
-}
+
