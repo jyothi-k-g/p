@@ -61,6 +61,7 @@
     margin: 20px;
     padding: 60px;
     width: 100%;
+    line-height: 35px;
 }
 .container3{
     display: flex;
@@ -75,11 +76,12 @@
     
 }
 .container3 form{
-    width: 80%;
+    width: 70%;
     margin: 20px auto;
+    
 }
 .container3 form label, input{
-   
+   margin: 15px 0;
 }
 .container3 form input{
     width: 80%;
@@ -87,6 +89,7 @@
 }
 .container3 .formcontent{
     width: 100%;
+    line-height: 35px;
 }
 @media(max-width:790px){
 .services{
@@ -151,10 +154,9 @@
     }
     .container2 .content1{
         width: 100%;
-        margin: 0px;
-        padding: 0px;
+        margin: 20px;
+        padding: 40px 10px;
         text-align: justify;
-        line-height: normal
     }
     .container2 .content1 p{
         
